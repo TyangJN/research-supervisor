@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研导师"
+  short_description: "以数据集和评估缺口为入口，指导选题、验证、实验迭代与论文论证"
+  default_prompt: "使用 $research-supervisor，根据我已有的数据、想法或结果，判断当前研究阶段并提出有证据依据的下一步。"
